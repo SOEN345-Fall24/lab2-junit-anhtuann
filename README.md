@@ -2,4 +2,4 @@
 - name: Anh-Tuan Nguyen
 - ID: 40177349
 ## Coverage
-![Screenshot 2024-09-14 001301](https://github.com/user-attachments/assets/d9b33daa-a3ea-4d58-8cb8-adcc344121a3)
+![image](https://github.com/user-attachments/assets/d84b5761-7fb2-402b-be17-baec1cf52326)
